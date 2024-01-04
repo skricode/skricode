@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skricode
+- 👋 Hi, I’m SRIKRISHNA
 - 👀 I’m interested in MERN stack & JavaScript Programming
 - 🌱 I’m currently learning NodeJS with ejs template (developing SEO tools)
 - 💞️ I’m looking to collaborate on web applications using MERN stack
