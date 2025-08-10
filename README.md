@@ -11,7 +11,7 @@ skricode/skricode is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m SRIKRISHNA<br>👀 I’m interested in MERN stack & JavaScript Programming<br>🌱 I’m currently learning NodeJS with ejs template (developing SEO tools)<br>💞️ I’m looking to collaborate on web applications using MERN stack<br>📫 How to reach me skricode@gmail.com || +91 9901437129 <br> <a href="https://github.com/skricode">Visit Portfolio </a>
+👋 Hi, I’m SRIKRISHNA<br>👀 I’m interested in MERN stack & JavaScript Programming<br>🌱 I’m currently learning NodeJS with ejs template (developing SEO tools)<br>💞️ I’m looking to collaborate on web applications using MERN stack<br>📫 How to reach me skricode@gmail.com || +91 9901437129 <br> <a href="https://srikrishna.kakkayya.com/">Visit Portfolio </a>
 
 
 ## 🌐 Socials:
